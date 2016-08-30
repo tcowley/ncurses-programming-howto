@@ -1,6 +1,6 @@
-## Mobile-friendly version of the "Ncurses HOWTO"
+## Mobile-friendly version of the "NCURSES Programming HOWTO"
 
-This is more mobile-friendly version of Pradeep Padala's "Ncurses HOWTO".
+This is more mobile-friendly version of Pradeep Padala's "NCURSES Programming HOWTO".
 
 The original HTML source is at http://www.tldp.org/HOWTO/html_single/NCURSES-Programming-HOWTO/ .
 
