@@ -1,0 +1,60 @@
+ul, p {
+    line-height: 1.3em;
+    font-size: 1.2em;
+}
+
+table {
+    table-layout: fixed;
+    width: 100%;
+}
+
+#toc-link {
+    box-sizing: border-box;
+    position: fixed;
+    top: 0;
+    xwidth: 20%;
+    height: 2em;
+    right: 0;
+    line-height: 2em;
+    background: #eee;
+    border-left: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    text-align: right;
+    padding: 0 1em;
+    z-index: 2000;
+}
+
+#toc-link:before {
+    content: 'Table Of Contents';
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+
+@media screen and (max-width: 800px) {
+    pre {
+        padding: .3em;
+        width: calc(100% - .6em);
+        background: #f2f2f2;
+        font-family: serif;
+        white-space: pre;
+        overflow-x: auto;
+    }
+
+    ul, p {
+        box-sizing: border-box;
+        width: 100%;
+        overflow-x: auto;
+        line-height: 1.3em;
+        font-size: 1.1em;
+    }
+
+    blockquote {
+        margin: 0!important;
+    }
+    
+    #toc-link:before {
+        content: 'TOC';
+    }
+    
+}
