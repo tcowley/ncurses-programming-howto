@@ -8,6 +8,7 @@ Changes to the source:
 - Added a &lt;meta name="viewport"&gt; tag to the HTML file
 - Added a stylesheet and &lt;link&gt;'ed it to HTML file.
 - Removed width="100%" from HTML tables
+- Added a link to make it easy to get back to the TOC from any scroll position
 - Added a some CSS to the new stylesheet to make the docs more legible on mobile
 
 You can read this copy of the guide at https://tcowley.github.io/ncurses-programming-howto/ .
