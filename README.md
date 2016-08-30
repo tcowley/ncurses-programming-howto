@@ -9,5 +9,5 @@ Changes to the source:
 - Added a stylesheet and &lt;link&gt;'ed it to HTML file.
 - Added a some CSS to the new stylesheet to make the docs more legible on mobile
 
-You can read this copy of the guide at https://tcowley.github.io/ncurses-howto/ .
+You can read this copy of the guide at https://tcowley.github.io/ncurses-programming-howto/ .
 
